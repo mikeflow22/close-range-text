@@ -1,0 +1,6 @@
+framework module Pods_Proxi {
+  umbrella header "Pods-Proxi-umbrella.h"
+
+  export *
+  module * { export * }
+}
